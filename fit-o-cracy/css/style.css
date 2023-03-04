@@ -43,6 +43,11 @@ body {
   content: "";
 }
 
+.container-1{
+  position: relative;
+  z-index: 10;
+}
+
 .styled-table {
     border-collapse: collapse;
     margin-left: auto;
